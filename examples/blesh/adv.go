@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-ble/ble"
+	"github.com/k-katsuda/ble"
 )
 
 func advHandler(a ble.Advertisement) {
